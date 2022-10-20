@@ -1,0 +1,20 @@
+﻿study_word,test,textbox.text,,,
+vase,,,,,
+tiger,,,,,
+piano,,,,,
+cushion,,,,,
+book,,,,,
+,t_g_r,tiger,,,
+,o_a_n_e,orange,,,
+,_ea_o_,p,,,
+,_ia_n_,piano,,,
+,_p_a_d_,,,,
+,_a_e,,,,
+,_oo_,,,,
+,_o_s_,,,,
+,c_m_r_,,,,
+,c_s_h_o_n,,,,
+,,,,,
+,,prop of hit from study list,,2,0.2
+,,prop of hit for the non-prime words,,1,0.1
+,,primiing score,,,0.1
